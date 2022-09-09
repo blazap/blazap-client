@@ -1,1 +1,1 @@
-# blazap-client
+# Blazap for client
